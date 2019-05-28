@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Python",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Python backend for mediate",
+  "description": "A barebones Python app with Flask and Heroku",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/ksaaskil/mediate-python-backend",
   "keywords": ["python"],
   "env": {
     "SECRET_KEY": {
